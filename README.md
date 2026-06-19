@@ -32,10 +32,10 @@
 ### 🚀 Featured Projects
 | Project | What it is |
 |---|---|
+| 🔐 **[SUFV — Secure User File Vault](https://github.com/Purva9665/SUFV)** | C++ secure file vault: Argon2id hashing, per-user DB isolation, SQL-injection-safe prepared statements |
 | 🛰️ **[BAH 2026 Study Pages](https://github.com/Purva9665/BAH)** | From-zero explainers for ISRO hackathon problem statements — [live site](https://purva9665.github.io/BAH/) |
-| 🚗 **[Virtual Road Lab](https://github.com/Purva9665/VirtualRoadLab-)** | Browser 3D collision-risk simulator (Three.js + 13-formula physics engine) |
-| 🧮 **[Calculator Search & Execution](https://github.com/Purva9665/Calculator-Search-and-Execution-System)** | Single-page multi-calculator with a searchable menu (vanilla JS) |
 | 📅 **[Study Planner](https://github.com/Purva9665/Study-Planner)** | Streamlit study-scheduling web app for students |
+| 🚗 **[Virtual Road Lab](https://github.com/Purva9665/VirtualRoadLab-)** | Browser 3D collision-risk simulator (Three.js + 13-formula physics engine) |
 
 > 🔐 **In build (security):** Python port scanner · Scapy packet analyzer · brute-force/log detector · adversarial-ML demo.
 
