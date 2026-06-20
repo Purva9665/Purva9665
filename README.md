@@ -54,7 +54,7 @@
 ### 📫 Connect
 <p>
   <a href="https://www.linkedin.com/in/purva-kadam-791350383"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:purvakadam9637@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:purvakadam966597@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Consistency over intensity — building toward a top-tier security career, one day at a time. 🔒</i></p>
